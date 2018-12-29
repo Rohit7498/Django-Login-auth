@@ -1,0 +1,18 @@
+{% extends 'base.html' %}
+
+{% block body %}
+<div class="container">
+  <h2>Create Daily Progress Report</h2>
+  <form class="post_create" action="" method="post">
+    {% csrf_token %}
+    Work Assigned :
+    <input type="text" name="work"><br><br>
+    Progress: <br>
+    <textarea name="progress" rows="5" cols="40"></textarea>
+    <br><br>
+    <input type="submit" name="" value="Submit" class="btn btn-primary">
+  </form>
+</div>
+
+
+{% endblock %}

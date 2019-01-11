@@ -26,7 +26,7 @@ Simple Login and SignUp authentication using Django Auth.
 
 ## Home Page: 
   Before login:
-  ![](https://imgur.com/nT1Xhz9)
+  ![alt text](https://imgur.com/nT1Xhz9)
   
   After login:
   

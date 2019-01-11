@@ -59,9 +59,9 @@ Mail received with reset link:
 
 ![](https://imgur.com/PQBxsHU)
 
-PAssword reset success:
+Password reset success:
 
-[bb](https://i.imgur.com/u8j1bGQ.png)
+![bb](https://i.imgur.com/u8j1bGQ.png)
 
 
 

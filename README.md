@@ -61,7 +61,7 @@ Mail received with reset link:
 
 PAssword reset success:
 
-![](https://imgur.com/u8j1bGQ)
+[bb](https://i.imgur.com/u8j1bGQ.png)
 
 
 

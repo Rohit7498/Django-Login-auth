@@ -26,38 +26,38 @@ Simple Login and SignUp authentication using Django Auth.
 
 ## Home Page: 
   Before login:
-  ![imgur](https://imgur.com/nT1Xhz9)
+  ![kk](https://i.imgur.com/nT1Xhz9.png)
   
   After login:
   
-  ![](https://imgur.com/vHrTwa8)
+  ![mko](https://i.imgur.com/vHrTwa8.png)
 
 ## Login page using django Auth
 
-![](https://imgur.com/CIDlQEN)
+![jjp](https://i.imgur.com/CIDlQEN.png)
 
 ## Signup Form - Django Auth
-![](https://imgur.com/EArliif)
+![yy](https://i.imgur.com/EArliif.png)
 
 ## Change Password for logged in users
 
-![](https://imgur.com/u4ayE48)
+![uu](https://i.imgur.com/u4ayE48.png)
 
 Success page:
 
-![](https://imgur.com/v9fVJ5B)
+![kkl](https://i.imgur.com/v9fVJ5B.png)
 
 ## Forgot password with google smtp password reset
 
-![](https://imgur.com/JSMhNmT)
+![cc](https://i.imgur.com/JSMhNmT.png)
 
 Reset link sent through smptp success page:
 
-![](https://imgur.com/pagOCuz)
+![oo](https://i.imgur.com/pagOCuz.png)
 
 Mail received with reset link:
 
-![](https://imgur.com/PQBxsHU)
+![Imgur](https://i.imgur.com/PQBxsHU.png)
 
 Password reset success:
 
